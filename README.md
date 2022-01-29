@@ -1,0 +1,1 @@
+Apenas um projeto de anúncios de produtos (semelhante à OLX) para estudar Java e Springboot.
